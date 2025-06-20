@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/4f3eb2a9-07b7-46ee-8655-60f92c5a50b9)
+
+
+
 Sure! Here’s a simple explanation of each **Jenkins trigger** option you mentioned, with examples of when/how you’d use them:
 
 ---
